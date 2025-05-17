@@ -12,7 +12,7 @@ public class Program
 
         Console.WriteLine("Nombre del gato" + myCat.Name);
 
-        Console.WriteLine("Ingrese una descripcion para el gato");
+        Console.WriteLine("Ingrese una descripcion para el gaito");
 
         myCat.Description = Console.ReadLine();
     }
