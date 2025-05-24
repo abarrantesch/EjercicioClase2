@@ -6,8 +6,8 @@ public class Program
     {
         //instancia del gato
 
-        var myCat = new Cat() { Id = 1, Name = "Misingo" };
-        
+        var myCat = new Cat() { Id = 1, Name = "Misingo" }; //modificando el nombre del gato
+
         Console.WriteLine("Id del gato" + myCat.Id);
 
         Console.WriteLine("Nombre del gato" + myCat.Name);
